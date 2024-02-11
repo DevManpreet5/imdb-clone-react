@@ -18,7 +18,7 @@ Styled Components: CSS-in-JS library for styling React components with scoped st
 React Icons: Icon library for adding icons to the user interface.
 
 Getting Started:
-Clone the Repository: git clone https://github.com/yourusername/react-movie-database.git
+Clone the Repository: git clone https://github.com/DevManpreet5/imdb-clone-react
 Install Dependencies: cd react-movie-database && npm install
 Start the Development Server: npm start
 Open in Browser: Visit http://localhost:3000 to view the application in your browser.

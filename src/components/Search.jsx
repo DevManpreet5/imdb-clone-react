@@ -59,7 +59,6 @@ function Search() {
               key={index}
               className="w-full h-20 bg-zinc-200 p-7 border-b-2 border-white hover:bg-zinc-400 hover:text-black flex items-center  gap-10"
             >
-              {console.log(val)}
               <img
                 className="h-16 w-20 rounded object-cover"
                 src={

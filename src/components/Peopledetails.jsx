@@ -11,7 +11,6 @@ import {
 function Peopledetails() {
   const { id } = useParams();
   const data = useSelector((state) => {
-    console.log(state.person);
     return state.person;
   });
   const dispatch = useDispatch();

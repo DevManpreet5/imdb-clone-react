@@ -36,7 +36,6 @@ function Moviesdetails() {
   ) {
     return (
       <div>
-        {console.log(data)}
         <div
           className="h-[100vh] w-full "
           style={{

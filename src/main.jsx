@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import "./index.css";
 import { BrowserRouter } from "react-router-dom";
 import "remixicon/fonts/remixicon.css";
-import { store } from "../src/store/store.jsx";
+import { store } from "../src/store/Store.jsx";
 import { Provider } from "react-redux";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
